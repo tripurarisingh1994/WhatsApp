@@ -1,0 +1,23 @@
+.active-border {
+  border-bottom:1px solid;
+}
+
+.row.msg-box {
+  position:absolute;
+  bottom:0;
+}
+
+.class1 {
+  width:fit-content;
+  background-color:#FAFAFA;
+  padding:3px 10px;
+  font-family:'Allan', cursive;
+}
+
+.float-right.class2 {
+  width:fit-content;
+  background-color:#FAFAFA;
+  padding:3px 10px;
+  font-family:'Allan',cursive;
+}
+
